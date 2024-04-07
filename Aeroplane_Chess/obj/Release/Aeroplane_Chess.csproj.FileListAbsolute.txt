@@ -1,0 +1,10 @@
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\bin\Release\Aeroplane_Chess.exe.config
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\bin\Release\Aeroplane_Chess.exe
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\bin\Release\Aeroplane_Chess.pdb
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.csproj.AssemblyReference.cache
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.Form1.resources
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.Properties.Resources.resources
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.csproj.GenerateResource.cache
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.csproj.CoreCompileInputs.cache
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.exe
+D:\Download\Aeroplane_Chess-C_Sharp-master\Aeroplane_Chess\obj\Release\Aeroplane_Chess.pdb
